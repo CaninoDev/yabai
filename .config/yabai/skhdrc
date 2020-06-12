@@ -1,5 +1,5 @@
 # open terminal
-ctrl + alt + cmd - t : /Applications/kitty.app/Contents/MacOS/kitty
+ctrl + alt + cmd - t : open -na /Applications/kitty.app/Contents/MacOS/kitty
 
 
 # open mpv with url from clipboard
